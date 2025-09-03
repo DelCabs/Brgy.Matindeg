@@ -1,0 +1,91 @@
+body{
+    margin: 0%;
+}
+
+
+.Navi {
+    margin-top: -4%;
+    background-color: rgb(36, 58, 112);
+    padding: 52px 680px;
+    
+}
+.w-1{
+  top: 18px;
+  left: 558px;
+  position: fixed;
+  color: rgb(192, 217, 239);
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+.w-2{
+  top: 18px;
+  left: 611px;
+  position: fixed;
+  color: rgb(107, 167, 219);
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+.o-1{
+  top: 18px;
+  left: 45px;
+  position: fixed;
+  color: rgb(207, 207, 212);
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 17px;
+}
+.o-2{
+   top: 18px;
+  left: 145px;
+  position: fixed;
+  color: rgb(207, 207, 212);
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 17px;
+}
+.o-3{
+   top: 18px;
+  left: 245px;
+  position: fixed;
+   color: rgb(207, 207, 212);
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 17px;
+}
+.staffs-Acc{
+  top: 18px;
+  left: 1000px;
+  position: fixed;
+   color: rgb(207, 207, 212);
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 17px;
+}
+
+
+
+.C-2{
+     align-self: center;
+     text-align: center;
+     
+
+}
+.Cont{
+    margin-top: 20px;
+    font-family: Verdana;
+    font-weight: normal;
+    
+}
+
+
+
+
+
+
+
+
+
